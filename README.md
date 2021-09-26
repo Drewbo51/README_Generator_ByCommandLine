@@ -6,13 +6,13 @@
 
   ## Table of Contents
 
-  - [Description](#Description)
+  - [Description](#description)
 
-  - [Installation](#Installation)
+  - [Installation](#installation)
 
-  - [Usage](#Usage)
+  - [Usage](#isage)
 
-  - [Questions](#Questions)
+  - [Questions](#questions)
 
   ## Description
 
